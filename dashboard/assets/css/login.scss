@@ -45,7 +45,7 @@ $desktop: 700px;
             p{
                 font-size: 1em;
             }
-            &> input[type="text"], &> input[type="password"]{
+            &> input[type="email"], &> input[type="text"], &> input[type="password"]{
                 border: none;
                 border-bottom: 1px solid rgba(51, 51, 51, 0.24);
                 margin: 1em 0;
