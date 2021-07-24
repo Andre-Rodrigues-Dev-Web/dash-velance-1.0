@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/Andre-Rodrigues-Dev-Web/dash-velance-1.0#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "nodemon": "^2.0.12"
   }
 }
